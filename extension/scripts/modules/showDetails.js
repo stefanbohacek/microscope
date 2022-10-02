@@ -19,17 +19,26 @@ const showDetails = (data) => {
                     currency: 'USD',
                 });
 
-                const contributorsHTML = `<ul>
+                const contributorsByIndustryHTML = `<ul class="contributors-view contributors-industry">
                 ${data.contributors.industries.map(contributor => `<li>
                         ${contributor.industry_name} (${currencyFormat.format(contributor.total)})
+                    </li>
+                `).join('')}</ul>`;
+
+                const contributorsByOrgHTML = `<ul class="contributors-view contributors-org d-none">
+                ${data.contributors.companies.map(contributor => `<li>
+                        ${contributor.org_name} (${currencyFormat.format(contributor.total)})
                     </li>
                 `).join('')}</ul>`;
 
                 resultHTML += `
                 <p>
                     <strong>Top donors</strong>
+                    <span class="switch-view" data-filter="industry">by industry</span> |
+                    <span class="switch-view" data-filter="org">by organization</span> 
                 </p>
-                ${contributorsHTML}
+                ${contributorsByIndustryHTML}
+                ${contributorsByOrgHTML}
                 `;
             }
 
@@ -46,8 +55,26 @@ const showDetails = (data) => {
             }
             
             containerEl.innerHTML = `
-            ${resultHTML}
+                ${resultHTML}
             `;
+
+            const switchViewBtns = document.querySelectorAll('.switch-view');
+            const contributionsViews = {
+                'industry': document.querySelectorAll('.contributors-industry'),
+                'org': document.querySelectorAll('.contributors-org')
+            };
+
+            for (const button of switchViewBtns) {
+                button.addEventListener('click', function(event) {
+                    for (const view in contributionsViews) {
+                        if (view === this.dataset.filter){
+                            contributionsViews[view][0].classList.remove('d-none');
+                        } else {
+                            contributionsViews[view][0].classList.add('d-none');
+                        }
+                    }
+                });
+            }
         } else {
             const target = document.querySelector('body');
             const observer = new MutationObserver(() => {

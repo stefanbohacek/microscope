@@ -11,3 +11,15 @@
 #microscope-output-container a{
     color: rgb(29, 155, 240);
 }
+
+.switch-view{
+    cursor: pointer !important;
+}
+
+.switch-view:hover{
+    text-decoration: underline;
+}
+
+.d-none{
+    display: none;
+}
