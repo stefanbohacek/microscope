@@ -1,0 +1,29 @@
+{
+  "name": "microscope-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Microscope browser extension.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon -L",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Bohacek",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "**/test/**"
+    ]
+  }
+}

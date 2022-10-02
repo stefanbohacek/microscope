@@ -1,0 +1,14 @@
+#microscope-output-container{
+    white-space: nowrap;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* #microscope-output-container p{
+    margin-left: 1rem;
+    margin-right: 1rem;
+} */
+
+#microscope-output-container ul{
+    padding-left: 1.5rem;
+}
