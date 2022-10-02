@@ -9,6 +9,9 @@ const showDetails = (data) => {
             containerEl.setAttribute('id', 'microscope-output-container');
             
             let resultHTML = '';
+
+            // contributor.industry_name
+            // contributor.org_name
             
             if (data.contributors && data.contributors.industries && data.contributors.industries.length){
                 const currencyFormat = new Intl.NumberFormat('en-US', {
