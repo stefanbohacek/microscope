@@ -2,7 +2,6 @@
     {
         "id": {
             "bioguide": "R000600",
-            "thomas": "02222",
             "govtrack": 412664,
             "opensecrets": "N00007635"
         },
@@ -16,7 +15,6 @@
     {
         "id": {
             "bioguide": "Y000064",
-            "thomas": "02019",
             "govtrack": 412428,
             "opensecrets": "N00030670"
         },
@@ -32,7 +30,6 @@
     {
         "id": {
             "bioguide": "E000295",
-            "thomas": "02283",
             "govtrack": 412667,
             "opensecrets": "N00035483"
         },
@@ -48,7 +45,6 @@
     {
         "id": {
             "bioguide": "T000476",
-            "thomas": "02291",
             "govtrack": 412668,
             "opensecrets": "N00035492"
         },
@@ -63,7 +59,6 @@
     {
         "id": {
             "bioguide": "Y000062",
-            "thomas": "01853",
             "govtrack": 412211,
             "opensecrets": "N00028073"
         },
@@ -78,7 +73,6 @@
     {
         "id": {
             "bioguide": "W000809",
-            "thomas": "01991",
             "govtrack": 412402,
             "opensecrets": "N00031857"
         },
@@ -93,7 +87,6 @@
     {
         "id": {
             "bioguide": "W000808",
-            "thomas": "02004",
             "govtrack": 412412,
             "opensecrets": "N00030650"
         },
@@ -109,7 +102,6 @@
     {
         "id": {
             "bioguide": "W000806",
-            "thomas": "02002",
             "govtrack": 412410,
             "opensecrets": "N00026335"
         },
@@ -124,7 +116,6 @@
     {
         "id": {
             "bioguide": "W000805",
-            "thomas": "01897",
             "govtrack": 412321,
             "opensecrets": "N00002097"
         },
@@ -141,7 +132,6 @@
     {
         "id": {
             "bioguide": "W000804",
-            "thomas": "01886",
             "govtrack": 412255,
             "opensecrets": "N00029459"
         },
@@ -157,7 +147,6 @@
     {
         "id": {
             "bioguide": "W000802",
-            "thomas": "01823",
             "govtrack": 412247,
             "opensecrets": "N00027533"
         },
@@ -173,7 +162,6 @@
     {
         "id": {
             "bioguide": "W000800",
-            "thomas": "01879",
             "govtrack": 412239,
             "opensecrets": "N00000515"
         },
@@ -190,7 +178,6 @@
     {
         "id": {
             "bioguide": "W000798",
-            "thomas": "01855",
             "govtrack": 412213,
             "opensecrets": "N00026368"
         },
@@ -206,7 +193,6 @@
     {
         "id": {
             "bioguide": "W000797",
-            "thomas": "01777",
             "govtrack": 400623,
             "opensecrets": "N00026106"
         },
@@ -222,7 +208,6 @@
     {
         "id": {
             "bioguide": "W000795",
-            "thomas": "01688",
             "govtrack": 400433,
             "opensecrets": "N00024809"
         },
@@ -239,7 +224,6 @@
     {
         "id": {
             "bioguide": "W000779",
-            "thomas": "01247",
             "govtrack": 300100,
             "opensecrets": "N00007724"
         },
@@ -255,7 +239,6 @@
     {
         "id": {
             "bioguide": "W000437",
-            "thomas": "01226",
             "govtrack": 400432,
             "opensecrets": "N00003280"
         },
@@ -272,7 +255,6 @@
     {
         "id": {
             "bioguide": "W000187",
-            "thomas": "01205",
             "govtrack": 400422,
             "opensecrets": "N00006690"
         },
@@ -288,7 +270,6 @@
     {
         "id": {
             "bioguide": "V000128",
-            "thomas": "01729",
             "govtrack": 400415,
             "opensecrets": "N00013820"
         },
@@ -305,7 +286,6 @@
     {
         "id": {
             "bioguide": "V000081",
-            "thomas": "01184",
             "govtrack": 400416,
             "opensecrets": "N00001102"
         },
@@ -320,7 +300,6 @@
     {
         "id": {
             "bioguide": "U000031",
-            "thomas": "01177",
             "govtrack": 400414,
             "opensecrets": "N00004133"
         },
@@ -336,7 +315,6 @@
     {
         "id": {
             "bioguide": "T000469",
-            "thomas": "01942",
             "govtrack": 412319,
             "opensecrets": "N00030196"
         },
@@ -352,7 +330,6 @@
     {
         "id": {
             "bioguide": "T000468",
-            "thomas": "01940",
             "govtrack": 412318,
             "opensecrets": "N00030191"
         },
@@ -369,7 +346,6 @@
     {
         "id": {
             "bioguide": "T000467",
-            "thomas": "01952",
             "govtrack": 412317,
             "opensecrets": "N00029736"
         },
@@ -385,7 +361,6 @@
     {
         "id": {
             "bioguide": "T000464",
-            "thomas": "01829",
             "govtrack": 412244,
             "opensecrets": "N00027605"
         },
@@ -400,7 +375,6 @@
     {
         "id": {
             "bioguide": "T000463",
-            "thomas": "01741",
             "govtrack": 400411,
             "opensecrets": "N00025175"
         },
@@ -416,7 +390,6 @@
     {
         "id": {
             "bioguide": "T000461",
-            "thomas": "02085",
             "govtrack": 400408,
             "opensecrets": "N00001489"
         },
@@ -431,7 +404,6 @@
     {
         "id": {
             "bioguide": "T000460",
-            "thomas": "01593",
             "govtrack": 400403,
             "opensecrets": "N00007419"
         },
@@ -446,7 +418,6 @@
     {
         "id": {
             "bioguide": "T000250",
-            "thomas": "01534",
             "govtrack": 400546,
             "opensecrets": "N00004572"
         },
@@ -461,7 +432,6 @@
     {
         "id": {
             "bioguide": "T000193",
-            "thomas": "01151",
             "govtrack": 400402,
             "opensecrets": "N00003288"
         },
@@ -478,7 +448,6 @@
     {
         "id": {
             "bioguide": "S001189",
-            "thomas": "02009",
             "govtrack": 412417,
             "opensecrets": "N00032457"
         },
@@ -493,7 +462,6 @@
     {
         "id": {
             "bioguide": "S001185",
-            "thomas": "01988",
             "govtrack": 412396,
             "opensecrets": "N00030622"
         },
@@ -508,7 +476,6 @@
     {
         "id": {
             "bioguide": "S001184",
-            "thomas": "02056",
             "govtrack": 412471,
             "opensecrets": "N00031782"
         },
@@ -524,7 +491,6 @@
     {
         "id": {
             "bioguide": "S001183",
-            "thomas": "01994",
             "govtrack": 412399,
             "opensecrets": "N00006460"
         },
@@ -541,7 +507,6 @@
     {
         "id": {
             "bioguide": "S001181",
-            "thomas": "01901",
             "govtrack": 412323,
             "opensecrets": "N00024790"
         },
@@ -557,7 +522,6 @@
     {
         "id": {
             "bioguide": "S001180",
-            "thomas": "01950",
             "govtrack": 412315,
             "opensecrets": "N00030071"
         },
@@ -572,7 +536,6 @@
     {
         "id": {
             "bioguide": "S001177",
-            "thomas": "01962",
             "govtrack": 412312,
             "opensecrets": "N00030418"
         },
@@ -588,7 +551,6 @@
     {
         "id": {
             "bioguide": "S001176",
-            "thomas": "01892",
             "govtrack": 412261,
             "opensecrets": "N00009660"
         },
@@ -605,7 +567,6 @@
     {
         "id": {
             "bioguide": "S001175",
-            "thomas": "01890",
             "govtrack": 412259,
             "opensecrets": "N00029649"
         },
@@ -621,7 +582,6 @@
     {
         "id": {
             "bioguide": "S001172",
-            "thomas": "01860",
             "govtrack": 412217,
             "opensecrets": "N00027623"
         },
@@ -636,7 +596,6 @@
     {
         "id": {
             "bioguide": "S001165",
-            "thomas": "01818",
             "govtrack": 412186,
             "opensecrets": "N00027523"
         },
@@ -651,7 +610,6 @@
     {
         "id": {
             "bioguide": "S001157",
-            "thomas": "01722",
             "govtrack": 400363,
             "opensecrets": "N00024871"
         },
@@ -667,7 +625,6 @@
     {
         "id": {
             "bioguide": "S001156",
-            "thomas": "01757",
             "govtrack": 400355,
             "opensecrets": "N00024870"
         },
@@ -682,7 +639,6 @@
     {
         "id": {
             "bioguide": "S001150",
-            "thomas": "01635",
             "govtrack": 400361,
             "opensecrets": "N00009585"
         },
@@ -698,7 +654,6 @@
     {
         "id": {
             "bioguide": "S001148",
-            "thomas": "01590",
             "govtrack": 400376,
             "opensecrets": "N00006263"
         },
@@ -713,7 +668,6 @@
     {
         "id": {
             "bioguide": "S001145",
-            "thomas": "01588",
             "govtrack": 400360,
             "opensecrets": "N00004724"
         },
@@ -741,7 +695,6 @@
     {
         "id": {
             "bioguide": "S000770",
-            "thomas": "01531",
             "govtrack": 300093,
             "opensecrets": "N00004118"
         },
@@ -756,7 +709,6 @@
     {
         "id": {
             "bioguide": "S000510",
-            "thomas": "01528",
             "govtrack": 400379,
             "opensecrets": "N00007833"
         },
@@ -771,7 +723,6 @@
     {
         "id": {
             "bioguide": "S000344",
-            "thomas": "01526",
             "govtrack": 400371,
             "opensecrets": "N00006897"
         },
@@ -786,7 +737,6 @@
     {
         "id": {
             "bioguide": "S000320",
-            "thomas": "01049",
             "govtrack": 300089,
             "opensecrets": "N00009920"
         },
@@ -801,7 +751,6 @@
     {
         "id": {
             "bioguide": "S000185",
-            "thomas": "01037",
             "govtrack": 400364,
             "opensecrets": "N00002147"
         },
@@ -818,7 +767,6 @@
     {
         "id": {
             "bioguide": "S000148",
-            "thomas": "01036",
             "govtrack": 300087,
             "opensecrets": "N00001093"
         },
@@ -833,7 +781,6 @@
     {
         "id": {
             "bioguide": "S000033",
-            "thomas": "01010",
             "govtrack": 400357,
             "opensecrets": "N00000528"
         },
@@ -848,7 +795,6 @@
     {
         "id": {
             "bioguide": "R000595",
-            "thomas": "02084",
             "govtrack": 412491,
             "opensecrets": "N00030612"
         },
@@ -863,7 +809,6 @@
     {
         "id": {
             "bioguide": "R000577",
-            "thomas": "01756",
             "govtrack": 400352,
             "opensecrets": "N00025280"
         },
@@ -878,7 +823,6 @@
     {
         "id": {
             "bioguide": "R000576",
-            "thomas": "01728",
             "govtrack": 400349,
             "opensecrets": "N00025482"
         },
@@ -894,7 +838,6 @@
     {
         "id": {
             "bioguide": "R000575",
-            "thomas": "01704",
             "govtrack": 400341,
             "opensecrets": "N00024759"
         },
@@ -911,7 +854,6 @@
     {
         "id": {
             "bioguide": "R000515",
-            "thomas": "01003",
             "govtrack": 400350,
             "opensecrets": "N00004887"
         },
@@ -926,7 +868,6 @@
     {
         "id": {
             "bioguide": "R000486",
-            "thomas": "00997",
             "govtrack": 400347,
             "opensecrets": "N00006671"
         },
@@ -942,7 +883,6 @@
     {
         "id": {
             "bioguide": "R000395",
-            "thomas": "00977",
             "govtrack": 400340,
             "opensecrets": "N00003473"
         },
@@ -958,7 +898,6 @@
     {
         "id": {
             "bioguide": "R000122",
-            "thomas": "00949",
             "govtrack": 300081,
             "opensecrets": "N00000362"
         },
@@ -973,7 +912,6 @@
     {
         "id": {
             "bioguide": "Q000023",
-            "thomas": "01967",
             "govtrack": 412331,
             "opensecrets": "N00030581"
         },
@@ -990,7 +928,6 @@
     {
         "id": {
             "bioguide": "P000603",
-            "thomas": "02082",
             "govtrack": 412492,
             "opensecrets": "N00030836"
         },
@@ -1007,7 +944,6 @@
     {
         "id": {
             "bioguide": "P000601",
-            "thomas": "02035",
             "govtrack": 412443,
             "opensecrets": "N00031958"
         },
@@ -1023,7 +959,6 @@
     {
         "id": {
             "bioguide": "P000599",
-            "thomas": "01915",
             "govtrack": 412309,
             "opensecrets": "N00029662"
         },
@@ -1038,7 +973,6 @@
     {
         "id": {
             "bioguide": "P000597",
-            "thomas": "01927",
             "govtrack": 412307,
             "opensecrets": "N00013817"
         },
@@ -1053,7 +987,6 @@
     {
         "id": {
             "bioguide": "P000595",
-            "thomas": "01929",
             "govtrack": 412305,
             "opensecrets": "N00029277"
         },
@@ -1070,7 +1003,6 @@
     {
         "id": {
             "bioguide": "P000593",
-            "thomas": "01835",
             "govtrack": 412192,
             "opensecrets": "N00027510"
         },
@@ -1085,7 +1017,6 @@
     {
         "id": {
             "bioguide": "P000523",
-            "thomas": "00930",
             "govtrack": 400326,
             "opensecrets": "N00002260"
         },
@@ -1101,7 +1032,6 @@
     {
         "id": {
             "bioguide": "P000449",
-            "thomas": "00924",
             "govtrack": 400325,
             "opensecrets": "N00003682"
         },
@@ -1118,7 +1048,6 @@
     {
         "id": {
             "bioguide": "P000197",
-            "thomas": "00905",
             "govtrack": 400314,
             "opensecrets": "N00007360"
         },
@@ -1133,7 +1062,6 @@
     {
         "id": {
             "bioguide": "P000096",
-            "thomas": "01510",
             "govtrack": 400309,
             "opensecrets": "N00000751"
         },
@@ -1148,7 +1076,6 @@
     {
         "id": {
             "bioguide": "P000034",
-            "thomas": "00887",
             "govtrack": 400308,
             "opensecrets": "N00000781"
         },
@@ -1164,7 +1091,6 @@
     {
         "id": {
             "bioguide": "N000179",
-            "thomas": "01602",
             "govtrack": 400290,
             "opensecrets": "N00006789"
         },
@@ -1180,7 +1106,6 @@
     {
         "id": {
             "bioguide": "N000147",
-            "thomas": "00868",
             "govtrack": 400295,
             "opensecrets": "N00001692"
         },
@@ -1195,7 +1120,6 @@
     {
         "id": {
             "bioguide": "N000015",
-            "thomas": "00854",
             "govtrack": 400291,
             "opensecrets": "N00000153"
         },
@@ -1210,7 +1134,6 @@
     {
         "id": {
             "bioguide": "N000002",
-            "thomas": "00850",
             "govtrack": 400289,
             "opensecrets": "N00000939"
         },
@@ -1225,7 +1148,6 @@
     {
         "id": {
             "bioguide": "M001183",
-            "thomas": "01983",
             "govtrack": 412391,
             "opensecrets": "N00032838"
         },
@@ -1240,7 +1162,6 @@
     {
         "id": {
             "bioguide": "M001180",
-            "thomas": "02074",
             "govtrack": 412487,
             "opensecrets": "N00031681"
         },
@@ -1255,7 +1176,6 @@
     {
         "id": {
             "bioguide": "M001177",
-            "thomas": "01908",
             "govtrack": 412295,
             "opensecrets": "N00006863"
         },
@@ -1270,7 +1190,6 @@
     {
         "id": {
             "bioguide": "M001176",
-            "thomas": "01900",
             "govtrack": 412325,
             "opensecrets": "N00029303"
         },
@@ -1287,7 +1206,6 @@
     {
         "id": {
             "bioguide": "M001166",
-            "thomas": "01832",
             "govtrack": 412189,
             "opensecrets": "N00026926"
         },
@@ -1302,7 +1220,6 @@
     {
         "id": {
             "bioguide": "M001165",
-            "thomas": "01833",
             "govtrack": 412190,
             "opensecrets": "N00028152"
         },
@@ -1318,7 +1235,6 @@
     {
         "id": {
             "bioguide": "M001163",
-            "thomas": "01814",
             "govtrack": 400663,
             "opensecrets": "N00027459"
         },
@@ -1334,7 +1250,6 @@
     {
         "id": {
             "bioguide": "M001160",
-            "thomas": "01811",
             "govtrack": 400661,
             "opensecrets": "N00026914"
         },
@@ -1350,7 +1265,6 @@
     {
         "id": {
             "bioguide": "M001159",
-            "thomas": "01809",
             "govtrack": 400659,
             "opensecrets": "N00026314"
         },
@@ -1366,7 +1280,6 @@
     {
         "id": {
             "bioguide": "M001157",
-            "thomas": "01804",
             "govtrack": 400654,
             "opensecrets": "N00026460"
         },
@@ -1382,7 +1295,6 @@
     {
         "id": {
             "bioguide": "M001156",
-            "thomas": "01792",
             "govtrack": 400644,
             "opensecrets": "N00026627"
         },
@@ -1399,7 +1311,6 @@
     {
         "id": {
             "bioguide": "M001153",
-            "thomas": "01694",
             "govtrack": 300075,
             "opensecrets": "N00026050"
         },
@@ -1415,7 +1326,6 @@
     {
         "id": {
             "bioguide": "M001143",
-            "thomas": "01653",
             "govtrack": 400259,
             "opensecrets": "N00012942"
         },
@@ -1431,7 +1341,6 @@
     {
         "id": {
             "bioguide": "M001137",
-            "thomas": "01506",
             "govtrack": 400271,
             "opensecrets": "N00001171"
         },
@@ -1447,7 +1356,6 @@
     {
         "id": {
             "bioguide": "M001111",
-            "thomas": "01409",
             "govtrack": 300076,
             "opensecrets": "N00007876"
         },
@@ -1463,7 +1371,6 @@
     {
         "id": {
             "bioguide": "M000934",
-            "thomas": "01507",
             "govtrack": 400284,
             "opensecrets": "N00005282"
         },
@@ -1480,7 +1387,6 @@
     {
         "id": {
             "bioguide": "M000639",
-            "thomas": "00791",
             "govtrack": 400272,
             "opensecrets": "N00000699"
         },
@@ -1497,7 +1403,6 @@
     {
         "id": {
             "bioguide": "M000355",
-            "thomas": "01395",
             "govtrack": 300072,
             "opensecrets": "N00003389"
         },
@@ -1511,7 +1416,6 @@
     {
         "id": {
             "bioguide": "M000312",
-            "thomas": "01504",
             "govtrack": 400263,
             "opensecrets": "N00000179"
         },
@@ -1527,7 +1431,6 @@
     {
         "id": {
             "bioguide": "M000133",
-            "thomas": "00735",
             "govtrack": 400253,
             "opensecrets": "N00000270"
         },
@@ -1542,7 +1445,6 @@
     {
         "id": {
             "bioguide": "M000087",
-            "thomas": "00729",
             "govtrack": 400251,
             "opensecrets": "N00000078"
         },
@@ -1557,7 +1459,6 @@
     {
         "id": {
             "bioguide": "L000577",
-            "thomas": "02080",
             "govtrack": 412495,
             "opensecrets": "N00031696"
         },
@@ -1574,7 +1475,6 @@
     {
         "id": {
             "bioguide": "L000576",
-            "thomas": "02033",
             "govtrack": 412445,
             "opensecrets": "N00030676"
         },
@@ -1589,7 +1489,6 @@
     {
         "id": {
             "bioguide": "L000575",
-            "thomas": "02050",
             "govtrack": 412464,
             "opensecrets": "N00031129"
         },
@@ -1606,7 +1505,6 @@
     {
         "id": {
             "bioguide": "L000570",
-            "thomas": "01939",
             "govtrack": 412293,
             "opensecrets": "N00029562"
         },
@@ -1618,7 +1516,6 @@
     {
         "id": {
             "bioguide": "L000569",
-            "thomas": "01931",
             "govtrack": 412292,
             "opensecrets": "N00030026"
         },
@@ -1633,7 +1530,6 @@
     {
         "id": {
             "bioguide": "L000566",
-            "thomas": "01885",
             "govtrack": 412256,
             "opensecrets": "N00012233"
         },
@@ -1650,7 +1546,6 @@
     {
         "id": {
             "bioguide": "L000564",
-            "thomas": "01834",
             "govtrack": 412191,
             "opensecrets": "N00028133"
         },
@@ -1666,7 +1561,6 @@
     {
         "id": {
             "bioguide": "L000562",
-            "thomas": "01686",
             "govtrack": 400249,
             "opensecrets": "N00013855"
         },
@@ -1682,7 +1576,6 @@
     {
         "id": {
             "bioguide": "L000560",
-            "thomas": "01675",
             "govtrack": 400232,
             "opensecrets": "N00009759"
         },
@@ -1698,7 +1591,6 @@
     {
         "id": {
             "bioguide": "L000559",
-            "thomas": "01668",
             "govtrack": 400230,
             "opensecrets": "N00009724"
         },
@@ -1713,7 +1605,6 @@
     {
         "id": {
             "bioguide": "L000557",
-            "thomas": "01583",
             "govtrack": 400233,
             "opensecrets": "N00000575"
         },
@@ -1729,7 +1620,6 @@
     {
         "id": {
             "bioguide": "L000551",
-            "thomas": "01501",
             "govtrack": 400237,
             "opensecrets": "N00008046"
         },
@@ -1746,7 +1636,6 @@
     {
         "id": {
             "bioguide": "L000491",
-            "thomas": "00711",
             "govtrack": 400247,
             "opensecrets": "N00005559"
         },
@@ -1761,7 +1650,6 @@
     {
         "id": {
             "bioguide": "L000397",
-            "thomas": "00701",
             "govtrack": 400245,
             "opensecrets": "N00007479"
         },
@@ -1776,7 +1664,6 @@
     {
         "id": {
             "bioguide": "L000174",
-            "thomas": "01383",
             "govtrack": 300065,
             "opensecrets": "N00009918"
         },
@@ -1792,7 +1679,6 @@
     {
         "id": {
             "bioguide": "K000378",
-            "thomas": "02014",
             "govtrack": 412421,
             "opensecrets": "N00030667"
         },
@@ -1807,7 +1693,6 @@
     {
         "id": {
             "bioguide": "K000376",
-            "thomas": "02051",
             "govtrack": 412465,
             "opensecrets": "N00031647"
         },
@@ -1822,7 +1707,6 @@
     {
         "id": {
             "bioguide": "K000375",
-            "thomas": "02025",
             "govtrack": 412435,
             "opensecrets": "N00031933"
         },
@@ -1837,7 +1721,6 @@
     {
         "id": {
             "bioguide": "K000188",
-            "thomas": "01498",
             "govtrack": 400218,
             "opensecrets": "N00004403"
         },
@@ -1852,7 +1735,6 @@
     {
         "id": {
             "bioguide": "K000009",
-            "thomas": "00616",
             "govtrack": 400211,
             "opensecrets": "N00003522"
         },
@@ -1868,7 +1750,6 @@
     {
         "id": {
             "bioguide": "J000293",
-            "thomas": "02086",
             "govtrack": 412496,
             "opensecrets": "N00032546"
         },
@@ -1884,7 +1765,6 @@
     {
         "id": {
             "bioguide": "J000292",
-            "thomas": "02046",
             "govtrack": 412460,
             "opensecrets": "N00032088"
         },
@@ -1901,7 +1781,6 @@
     {
         "id": {
             "bioguide": "J000289",
-            "thomas": "01868",
             "govtrack": 412226,
             "opensecrets": "N00027894"
         },
@@ -1916,7 +1795,6 @@
     {
         "id": {
             "bioguide": "J000288",
-            "thomas": "01843",
             "govtrack": 412199,
             "opensecrets": "N00027848"
         },
@@ -1932,7 +1810,6 @@
     {
         "id": {
             "bioguide": "J000126",
-            "thomas": "00599",
             "govtrack": 400204,
             "opensecrets": "N00008122"
         },
@@ -1948,7 +1825,6 @@
     {
         "id": {
             "bioguide": "J000032",
-            "thomas": "00588",
             "govtrack": 400199,
             "opensecrets": "N00005818"
         },
@@ -1963,7 +1839,6 @@
     {
         "id": {
             "bioguide": "I000024",
-            "thomas": "00583",
             "govtrack": 300055,
             "opensecrets": "N00005582"
         },
@@ -1978,7 +1853,6 @@
     {
         "id": {
             "bioguide": "H001061",
-            "thomas": "02079",
             "govtrack": 412494,
             "opensecrets": "N00031688"
         },
@@ -1995,7 +1869,6 @@
     {
         "id": {
             "bioguide": "H001058",
-            "thomas": "02028",
             "govtrack": 412437,
             "opensecrets": "N00030673"
         },
@@ -2011,7 +1884,6 @@
     {
         "id": {
             "bioguide": "H001056",
-            "thomas": "02071",
             "govtrack": 412486,
             "opensecrets": "N00031559"
         },
@@ -2027,7 +1899,6 @@
     {
         "id": {
             "bioguide": "H001053",
-            "thomas": "02032",
             "govtrack": 412444,
             "opensecrets": "N00031005"
         },
@@ -2044,7 +1915,6 @@
     {
         "id": {
             "bioguide": "H001047",
-            "thomas": "01913",
             "govtrack": 412282,
             "opensecrets": "N00029070"
         },
@@ -2059,7 +1929,6 @@
     {
         "id": {
             "bioguide": "H001046",
-            "thomas": "01937",
             "govtrack": 412281,
             "opensecrets": "N00029835"
         },
@@ -2076,7 +1945,6 @@
     {
         "id": {
             "bioguide": "H001042",
-            "thomas": "01844",
             "govtrack": 412200,
             "opensecrets": "N00028139"
         },
@@ -2093,7 +1961,6 @@
     {
         "id": {
             "bioguide": "H001038",
-            "thomas": "01794",
             "govtrack": 400641,
             "opensecrets": "N00027060"
         },
@@ -2109,7 +1976,6 @@
     {
         "id": {
             "bioguide": "H000874",
-            "thomas": "00566",
             "govtrack": 400189,
             "opensecrets": "N00001821"
         },
@@ -2126,7 +1992,6 @@
     {
         "id": {
             "bioguide": "G000568",
-            "thomas": "02070",
             "govtrack": 412485,
             "opensecrets": "N00032029"
         },
@@ -2142,7 +2007,6 @@
     {
         "id": {
             "bioguide": "G000565",
-            "thomas": "01992",
             "govtrack": 412397,
             "opensecrets": "N00030771"
         },
@@ -2158,7 +2022,6 @@
     {
         "id": {
             "bioguide": "G000563",
-            "thomas": "02049",
             "govtrack": 412463,
             "opensecrets": "N00031128"
         },
@@ -2174,7 +2037,6 @@
     {
         "id": {
             "bioguide": "G000559",
-            "thomas": "01973",
             "govtrack": 412382,
             "opensecrets": "N00030856"
         },
@@ -2190,7 +2052,6 @@
     {
         "id": {
             "bioguide": "G000553",
-            "thomas": "01803",
             "govtrack": 400653,
             "opensecrets": "N00026686"
         },
@@ -2206,7 +2067,6 @@
     {
         "id": {
             "bioguide": "G000552",
-            "thomas": "01801",
             "govtrack": 400651,
             "opensecrets": "N00026148"
         },
@@ -2221,7 +2081,6 @@
     {
         "id": {
             "bioguide": "G000551",
-            "thomas": "01708",
             "govtrack": 400162,
             "opensecrets": "N00025284"
         },
@@ -2236,7 +2095,6 @@
     {
         "id": {
             "bioguide": "G000386",
-            "thomas": "00457",
             "govtrack": 300048,
             "opensecrets": "N00001758"
         },
@@ -2252,7 +2110,6 @@
     {
         "id": {
             "bioguide": "G000377",
-            "thomas": "01487",
             "govtrack": 400157,
             "opensecrets": "N00008799"
         },
@@ -2268,7 +2125,6 @@
     {
         "id": {
             "bioguide": "G000359",
-            "thomas": "00452",
             "govtrack": 300047,
             "opensecrets": "N00009975"
         },
@@ -2283,7 +2139,6 @@
     {
         "id": {
             "bioguide": "F000459",
-            "thomas": "02061",
             "govtrack": 412476,
             "opensecrets": "N00030815"
         },
@@ -2298,7 +2153,6 @@
     {
         "id": {
             "bioguide": "F000450",
-            "thomas": "01791",
             "govtrack": 400643,
             "opensecrets": "N00026166"
         },
@@ -2314,7 +2168,6 @@
     {
         "id": {
             "bioguide": "F000062",
-            "thomas": "01332",
             "govtrack": 300043,
             "opensecrets": "N00007364"
         },
@@ -2329,7 +2182,6 @@
     {
         "id": {
             "bioguide": "E000215",
-            "thomas": "00355",
             "govtrack": 400124,
             "opensecrets": "N00007335"
         },
@@ -2345,7 +2197,6 @@
     {
         "id": {
             "bioguide": "D000616",
-            "thomas": "02062",
             "govtrack": 412477,
             "opensecrets": "N00030957"
         },
@@ -2362,7 +2213,6 @@
     {
         "id": {
             "bioguide": "D000615",
-            "thomas": "02057",
             "govtrack": 412472,
             "opensecrets": "N00030752"
         },
@@ -2379,7 +2229,6 @@
     {
         "id": {
             "bioguide": "D000610",
-            "thomas": "01976",
             "govtrack": 412385,
             "opensecrets": "N00031317"
         },
@@ -2395,7 +2244,6 @@
     {
         "id": {
             "bioguide": "D000600",
-            "thomas": "01717",
             "govtrack": 400108,
             "opensecrets": "N00025337"
         },
@@ -2412,7 +2260,6 @@
     {
         "id": {
             "bioguide": "D000563",
-            "thomas": "00326",
             "govtrack": 300038,
             "opensecrets": "N00004981"
         },
@@ -2427,7 +2274,6 @@
     {
         "id": {
             "bioguide": "D000482",
-            "thomas": "00316",
             "govtrack": 400114,
             "opensecrets": "N00001373"
         },
@@ -2442,7 +2288,6 @@
     {
         "id": {
             "bioguide": "D000399",
-            "thomas": "00303",
             "govtrack": 400111,
             "opensecrets": "N00006023"
         },
@@ -2458,7 +2303,6 @@
     {
         "id": {
             "bioguide": "D000216",
-            "thomas": "00281",
             "govtrack": 400103,
             "opensecrets": "N00000615"
         },
@@ -2473,7 +2317,6 @@
     {
         "id": {
             "bioguide": "D000197",
-            "thomas": "01479",
             "govtrack": 400101,
             "opensecrets": "N00006134"
         },
@@ -2488,7 +2331,6 @@
     {
         "id": {
             "bioguide": "D000191",
-            "thomas": "00279",
             "govtrack": 400100,
             "opensecrets": "N00007781"
         },
@@ -2503,7 +2345,6 @@
     {
         "id": {
             "bioguide": "C001088",
-            "thomas": "01984",
             "govtrack": 412390,
             "opensecrets": "N00031820"
         },
@@ -2520,7 +2361,6 @@
     {
         "id": {
             "bioguide": "C001087",
-            "thomas": "01989",
             "govtrack": 412400,
             "opensecrets": "N00030770"
         },
@@ -2537,7 +2377,6 @@
     {
         "id": {
             "bioguide": "C001084",
-            "thomas": "02055",
             "govtrack": 412470,
             "opensecrets": "N00032019"
         },
@@ -2552,7 +2391,6 @@
     {
         "id": {
             "bioguide": "C001080",
-            "thomas": "01970",
             "govtrack": 412379,
             "opensecrets": "N00030600"
         },
@@ -2567,7 +2405,6 @@
     {
         "id": {
             "bioguide": "C001078",
-            "thomas": "01959",
             "govtrack": 412272,
             "opensecrets": "N00029891"
         },
@@ -2582,7 +2419,6 @@
     {
         "id": {
             "bioguide": "C001072",
-            "thomas": "01889",
             "govtrack": 412258,
             "opensecrets": "N00029513"
         },
@@ -2598,7 +2434,6 @@
     {
         "id": {
             "bioguide": "C001070",
-            "thomas": "01828",
             "govtrack": 412246,
             "opensecrets": "N00027503"
         },
@@ -2614,7 +2449,6 @@
     {
         "id": {
             "bioguide": "C001069",
-            "thomas": "01836",
             "govtrack": 412193,
             "opensecrets": "N00024842"
         },
@@ -2630,7 +2464,6 @@
     {
         "id": {
             "bioguide": "C001068",
-            "thomas": "01878",
             "govtrack": 412236,
             "opensecrets": "N00003225"
         },
@@ -2645,7 +2478,6 @@
     {
         "id": {
             "bioguide": "C001067",
-            "thomas": "01864",
             "govtrack": 412221,
             "opensecrets": "N00026961"
         },
@@ -2661,7 +2493,6 @@
     {
         "id": {
             "bioguide": "C001063",
-            "thomas": "01807",
             "govtrack": 400657,
             "opensecrets": "N00024978"
         },
@@ -2676,7 +2507,6 @@
     {
         "id": {
             "bioguide": "C001061",
-            "thomas": "01790",
             "govtrack": 400639,
             "opensecrets": "N00026790"
         },
@@ -2691,7 +2521,6 @@
     {
         "id": {
             "bioguide": "C001059",
-            "thomas": "01774",
             "govtrack": 400618,
             "opensecrets": "N00026341"
         },
@@ -2706,7 +2535,6 @@
     {
         "id": {
             "bioguide": "C001056",
-            "thomas": "01692",
             "govtrack": 300027,
             "opensecrets": "N00024852"
         },
@@ -2721,7 +2549,6 @@
     {
         "id": {
             "bioguide": "C001053",
-            "thomas": "01742",
             "govtrack": 400077,
             "opensecrets": "N00025726"
         },
@@ -2737,7 +2564,6 @@
     {
         "id": {
             "bioguide": "C001051",
-            "thomas": "01752",
             "govtrack": 400068,
             "opensecrets": "N00025095"
         },
@@ -2754,7 +2580,6 @@
     {
         "id": {
             "bioguide": "C001047",
-            "thomas": "01676",
             "govtrack": 400061,
             "opensecrets": "N00009771"
         },
@@ -2770,7 +2595,6 @@
     {
         "id": {
             "bioguide": "C001035",
-            "thomas": "01541",
             "govtrack": 300025,
             "opensecrets": "N00000491"
         },
@@ -2786,7 +2610,6 @@
     {
         "id": {
             "bioguide": "C000880",
-            "thomas": "00250",
             "govtrack": 300030,
             "opensecrets": "N00006267"
         },
@@ -2803,7 +2626,6 @@
     {
         "id": {
             "bioguide": "C000754",
-            "thomas": "00231",
             "govtrack": 400081,
             "opensecrets": "N00003132"
         },
@@ -2820,7 +2642,6 @@
     {
         "id": {
             "bioguide": "C000537",
-            "thomas": "00208",
             "govtrack": 400075,
             "opensecrets": "N00002408"
         },
@@ -2835,7 +2656,6 @@
     {
         "id": {
             "bioguide": "C000266",
-            "thomas": "00186",
             "govtrack": 400071,
             "opensecrets": "N00003689"
         },
@@ -2852,7 +2672,6 @@
     {
         "id": {
             "bioguide": "C000174",
-            "thomas": "00179",
             "govtrack": 300019,
             "opensecrets": "N00012508"
         },
@@ -2867,7 +2686,6 @@
     {
         "id": {
             "bioguide": "C000141",
-            "thomas": "00174",
             "govtrack": 400064,
             "opensecrets": "N00001955"
         },
@@ -2883,7 +2701,6 @@
     {
         "id": {
             "bioguide": "C000127",
-            "thomas": "00172",
             "govtrack": 300018,
             "opensecrets": "N00007836"
         },
@@ -2898,7 +2715,6 @@
     {
         "id": {
             "bioguide": "C000059",
-            "thomas": "00165",
             "govtrack": 400057,
             "opensecrets": "N00007099"
         },
@@ -2914,7 +2730,6 @@
     {
         "id": {
             "bioguide": "B001277",
-            "thomas": "02076",
             "govtrack": 412490,
             "opensecrets": "N00031685"
         },
@@ -2929,7 +2744,6 @@
     {
         "id": {
             "bioguide": "B001275",
-            "thomas": "02018",
             "govtrack": 412427,
             "opensecrets": "N00031227"
         },
@@ -2944,7 +2758,6 @@
     {
         "id": {
             "bioguide": "B001274",
-            "thomas": "01987",
             "govtrack": 412395,
             "opensecrets": "N00030910"
         },
@@ -2959,7 +2772,6 @@
     {
         "id": {
             "bioguide": "B001270",
-            "thomas": "01996",
             "govtrack": 412404,
             "opensecrets": "N00031877"
         },
@@ -2974,7 +2786,6 @@
     {
         "id": {
             "bioguide": "B001267",
-            "thomas": "01965",
             "govtrack": 412330,
             "opensecrets": "N00030608"
         },
@@ -2990,7 +2801,6 @@
     {
         "id": {
             "bioguide": "B001261",
-            "thomas": "01881",
             "govtrack": 412251,
             "opensecrets": "N00006236"
         },
@@ -3005,7 +2815,6 @@
     {
         "id": {
             "bioguide": "B001260",
-            "thomas": "01840",
             "govtrack": 412196,
             "opensecrets": "N00027626"
         },
@@ -3022,7 +2831,6 @@
     {
         "id": {
             "bioguide": "B001257",
-            "thomas": "01838",
             "govtrack": 412250,
             "opensecrets": "N00027462"
         },
@@ -3038,7 +2846,6 @@
     {
         "id": {
             "bioguide": "B001251",
-            "thomas": "01761",
             "govtrack": 400616,
             "opensecrets": "N00027035"
         },
@@ -3053,7 +2860,6 @@
     {
         "id": {
             "bioguide": "B001248",
-            "thomas": "01751",
             "govtrack": 400052,
             "opensecrets": "N00025219"
         },
@@ -3069,7 +2875,6 @@
     {
         "id": {
             "bioguide": "B001243",
-            "thomas": "01748",
             "govtrack": 400032,
             "opensecrets": "N00003105"
         },
@@ -3085,7 +2890,6 @@
     {
         "id": {
             "bioguide": "B001236",
-            "thomas": "01687",
             "govtrack": 400040,
             "opensecrets": "N00013873"
         },
@@ -3101,7 +2905,6 @@
     {
         "id": {
             "bioguide": "B001135",
-            "thomas": "00153",
             "govtrack": 400054,
             "opensecrets": "N00002221"
         },
@@ -3117,7 +2920,6 @@
     {
         "id": {
             "bioguide": "B000944",
-            "thomas": "00136",
             "govtrack": 400050,
             "opensecrets": "N00003535"
         },
@@ -3132,7 +2934,6 @@
     {
         "id": {
             "bioguide": "B000755",
-            "thomas": "01468",
             "govtrack": 400046,
             "opensecrets": "N00005883"
         },
@@ -3149,7 +2950,6 @@
     {
         "id": {
             "bioguide": "B000575",
-            "thomas": "01464",
             "govtrack": 400034,
             "opensecrets": "N00005195"
         },
@@ -3166,7 +2966,6 @@
     {
         "id": {
             "bioguide": "B000574",
-            "thomas": "00099",
             "govtrack": 400033,
             "opensecrets": "N00007727"
         },
@@ -3180,7 +2979,6 @@
     {
         "id": {
             "bioguide": "B000490",
-            "thomas": "00091",
             "govtrack": 400030,
             "opensecrets": "N00002674"
         },
@@ -3195,7 +2993,6 @@
     {
         "id": {
             "bioguide": "A000055",
-            "thomas": "01460",
             "govtrack": 400004,
             "opensecrets": "N00003028"
         },
@@ -3210,7 +3007,6 @@
     {
         "id": {
             "bioguide": "D000617",
-            "thomas": "02096",
             "govtrack": 412505,
             "opensecrets": "N00030693"
         },
@@ -3225,7 +3021,6 @@
     {
         "id": {
             "bioguide": "B001278",
-            "thomas": "02092",
             "govtrack": 412501,
             "opensecrets": "N00033474"
         },
@@ -3255,7 +3050,6 @@
     {
         "id": {
             "bioguide": "A000369",
-            "thomas": "02090",
             "govtrack": 412500,
             "opensecrets": "N00031177"
         },
@@ -3271,7 +3065,6 @@
     {
         "id": {
             "bioguide": "S001193",
-            "thomas": "02104",
             "govtrack": 412514,
             "opensecrets": "N00033508"
         },
@@ -3288,7 +3081,6 @@
     {
         "id": {
             "bioguide": "M001190",
-            "thomas": "02156",
             "govtrack": 412568,
             "opensecrets": "N00033410"
         },
@@ -3302,7 +3094,6 @@
     {
         "id": {
             "bioguide": "R000597",
-            "thomas": "02160",
             "govtrack": 412572,
             "opensecrets": "N00033832"
         },
@@ -3318,7 +3109,6 @@
     {
         "id": {
             "bioguide": "M001188",
-            "thomas": "02148",
             "govtrack": 412560,
             "opensecrets": "N00034547"
         },
@@ -3332,7 +3122,6 @@
     {
         "id": {
             "bioguide": "M001185",
-            "thomas": "02150",
             "govtrack": 412562,
             "opensecrets": "N00034277"
         },
@@ -3347,7 +3136,6 @@
     {
         "id": {
             "bioguide": "T000472",
-            "thomas": "02110",
             "govtrack": 412520,
             "opensecrets": "N00006701"
         },
@@ -3363,7 +3151,6 @@
     {
         "id": {
             "bioguide": "J000294",
-            "thomas": "02149",
             "govtrack": 412561,
             "opensecrets": "N00033640"
         },
@@ -3377,7 +3164,6 @@
     {
         "id": {
             "bioguide": "J000295",
-            "thomas": "02154",
             "govtrack": 412566,
             "opensecrets": "N00035007"
         },
@@ -3394,7 +3180,6 @@
     {
         "id": {
             "bioguide": "L000579",
-            "thomas": "02111",
             "govtrack": 412521,
             "opensecrets": "N00033274"
         },
@@ -3410,7 +3195,6 @@
     {
         "id": {
             "bioguide": "W000814",
-            "thomas": "02161",
             "govtrack": 412574,
             "opensecrets": "N00033539"
         },
@@ -3426,7 +3210,6 @@
     {
         "id": {
             "bioguide": "K000381",
-            "thomas": "02169",
             "govtrack": 412583,
             "opensecrets": "N00034453"
         },
@@ -3439,7 +3222,6 @@
     {
         "id": {
             "bioguide": "D000618",
-            "thomas": "02138",
             "govtrack": 412549,
             "opensecrets": "N00033054"
         },
@@ -3456,7 +3238,6 @@
     {
         "id": {
             "bioguide": "K000382",
-            "thomas": "02145",
             "govtrack": 412557,
             "opensecrets": "N00030875"
         },
@@ -3471,7 +3252,6 @@
     {
         "id": {
             "bioguide": "K000380",
-            "thomas": "02134",
             "govtrack": 412546,
             "opensecrets": "N00033395"
         },
@@ -3488,7 +3268,6 @@
     {
         "id": {
             "bioguide": "C001090",
-            "thomas": "02159",
             "govtrack": 412571,
             "opensecrets": "N00034128"
         },
@@ -3503,7 +3282,6 @@
     {
         "id": {
             "bioguide": "C001095",
-            "thomas": "02098",
             "govtrack": 412508,
             "opensecrets": "N00033363"
         },
@@ -3518,7 +3296,6 @@
     {
         "id": {
             "bioguide": "B001286",
-            "thomas": "02127",
             "govtrack": 412537,
             "opensecrets": "N00033390"
         },
@@ -3533,7 +3310,6 @@
     {
         "id": {
             "bioguide": "B001287",
-            "thomas": "02102",
             "govtrack": 412512,
             "opensecrets": "N00030717"
         },
@@ -3548,7 +3324,6 @@
     {
         "id": {
             "bioguide": "F000454",
-            "thomas": "01888",
             "govtrack": 412257,
             "opensecrets": "N00029139"
         },
@@ -3563,7 +3338,6 @@
     {
         "id": {
             "bioguide": "F000462",
-            "thomas": "02119",
             "govtrack": 412529,
             "opensecrets": "N00002893"
         },
@@ -3579,7 +3353,6 @@
     {
         "id": {
             "bioguide": "H001067",
-            "thomas": "02140",
             "govtrack": 412550,
             "opensecrets": "N00033630"
         },
@@ -3594,7 +3367,6 @@
     {
         "id": {
             "bioguide": "V000131",
-            "thomas": "02166",
             "govtrack": 412579,
             "opensecrets": "N00033839"
         },
@@ -3611,7 +3383,6 @@
     {
         "id": {
             "bioguide": "P000605",
-            "thomas": "02157",
             "govtrack": 412569,
             "opensecrets": "N00034120"
         },
@@ -3628,7 +3399,6 @@
     {
         "id": {
             "bioguide": "R000599",
-            "thomas": "02109",
             "govtrack": 412519,
             "opensecrets": "N00033510"
         },
@@ -3643,7 +3413,6 @@
     {
         "id": {
             "bioguide": "C001096",
-            "thomas": "02144",
             "govtrack": 412555,
             "opensecrets": "N00004614"
         },
@@ -3659,7 +3428,6 @@
     {
         "id": {
             "bioguide": "W000812",
-            "thomas": "02137",
             "govtrack": 412548,
             "opensecrets": "N00033106"
         },
@@ -3674,7 +3442,6 @@
     {
         "id": {
             "bioguide": "W000817",
-            "thomas": "02182",
             "govtrack": 412542,
             "opensecrets": "N00033492"
         },
@@ -3690,7 +3457,6 @@
     {
         "id": {
             "bioguide": "D000619",
-            "thomas": "02126",
             "govtrack": 412536,
             "opensecrets": "N00034784"
         },
@@ -3706,7 +3472,6 @@
     {
         "id": {
             "bioguide": "S001192",
-            "thomas": "02168",
             "govtrack": 412581,
             "opensecrets": "N00033932"
         },
@@ -3722,7 +3487,6 @@
     {
         "id": {
             "bioguide": "B001282",
-            "thomas": "02131",
             "govtrack": 412541,
             "opensecrets": "N00031233"
         },
@@ -3737,7 +3501,6 @@
     {
         "id": {
             "bioguide": "C001098",
-            "thomas": "02175",
             "govtrack": 412573,
             "opensecrets": "N00033085"
         },
@@ -3752,7 +3515,6 @@
     {
         "id": {
             "bioguide": "D000096",
-            "thomas": "01477",
             "govtrack": 400093,
             "opensecrets": "N00004884"
         },
@@ -3767,7 +3529,6 @@
     {
         "id": {
             "bioguide": "G000546",
-            "thomas": "01656",
             "govtrack": 400158,
             "opensecrets": "N00013323"
         },
@@ -3782,7 +3543,6 @@
     {
         "id": {
             "bioguide": "B001230",
-            "thomas": "01558",
             "govtrack": 400013,
             "opensecrets": "N00004367"
         },
@@ -3798,7 +3558,6 @@
     {
         "id": {
             "bioguide": "W000816",
-            "thomas": "02165",
             "govtrack": 412578,
             "opensecrets": "N00030602"
         },
@@ -3812,7 +3571,6 @@
     {
         "id": {
             "bioguide": "D000622",
-            "thomas": "02123",
             "govtrack": 412533,
             "opensecrets": "N00027860"
         },
@@ -3829,7 +3587,6 @@
     {
         "id": {
             "bioguide": "F000463",
-            "thomas": "02179",
             "govtrack": 412556,
             "opensecrets": "N00033443"
         },
@@ -3845,7 +3602,6 @@
     {
         "id": {
             "bioguide": "H001068",
-            "thomas": "02101",
             "govtrack": 412511,
             "opensecrets": "N00033030"
         },
@@ -3861,7 +3617,6 @@
     {
         "id": {
             "bioguide": "H001052",
-            "thomas": "02026",
             "govtrack": 412434,
             "opensecrets": "N00029147"
         },
@@ -3876,7 +3631,6 @@
     {
         "id": {
             "bioguide": "P000604",
-            "thomas": "02097",
             "govtrack": 412506,
             "opensecrets": "N00034639"
         },
@@ -3891,7 +3645,6 @@
     {
         "id": {
             "bioguide": "P000608",
-            "thomas": "02113",
             "govtrack": 412523,
             "opensecrets": "N00033591"
         },
@@ -3906,7 +3659,6 @@
     {
         "id": {
             "bioguide": "C001091",
-            "thomas": "02163",
             "govtrack": 412576,
             "opensecrets": "N00033316"
         },
@@ -3923,7 +3675,6 @@
     {
         "id": {
             "bioguide": "W000815",
-            "thomas": "02152",
             "govtrack": 412564,
             "opensecrets": "N00033310"
         },
@@ -3940,7 +3691,6 @@
     {
         "id": {
             "bioguide": "S001191",
-            "thomas": "02099",
             "govtrack": 412509,
             "opensecrets": "N00033983"
         },
@@ -3956,7 +3706,6 @@
     {
         "id": {
             "bioguide": "C001075",
-            "thomas": "01925",
             "govtrack": 412269,
             "opensecrets": "N00030245"
         },
@@ -3970,7 +3719,6 @@
     {
         "id": {
             "bioguide": "G000558",
-            "thomas": "01922",
             "govtrack": 412278,
             "opensecrets": "N00029675"
         },
@@ -3985,7 +3733,6 @@
     {
         "id": {
             "bioguide": "L000578",
-            "thomas": "02100",
             "govtrack": 412510,
             "opensecrets": "N00033987"
         },
@@ -4001,7 +3748,6 @@
     {
         "id": {
             "bioguide": "C001066",
-            "thomas": "01839",
             "govtrack": 412195,
             "opensecrets": "N00027514"
         },
@@ -4016,7 +3762,6 @@
     {
         "id": {
             "bioguide": "K000367",
-            "thomas": "01826",
             "govtrack": 412242,
             "opensecrets": "N00027500"
         },
@@ -4030,7 +3775,6 @@
     {
         "id": {
             "bioguide": "C001097",
-            "thomas": "02107",
             "govtrack": 412517,
             "opensecrets": "N00033373"
         },
@@ -4047,7 +3791,6 @@
     {
         "id": {
             "bioguide": "P000607",
-            "thomas": "02171",
             "govtrack": 412585,
             "opensecrets": "N00033549"
         },
@@ -4064,7 +3807,6 @@
     {
         "id": {
             "bioguide": "V000130",
-            "thomas": "02112",
             "govtrack": 412522,
             "opensecrets": "N00007021"
         },
@@ -4080,7 +3822,6 @@
     {
         "id": {
             "bioguide": "K000384",
-            "thomas": "02176",
             "govtrack": 412582,
             "opensecrets": "N00033177"
         },
@@ -4093,7 +3834,6 @@
     {
         "id": {
             "bioguide": "S001194",
-            "thomas": "02173",
             "govtrack": 412507,
             "opensecrets": "N00028138"
         },
@@ -4135,9 +3875,50 @@
     },
     {
         "id": {
+            "bioguide": "M001184",
+            "opensecrets": "N00034041",
+            "govtrack": 412503
+        },
+        "social": {
+            "youtube": "repthomasmassie",
+            "youtube_id": "UCpmXOtvvXC3GE8o9VxYNK7g",
+            "facebook": "RepThomasMassie",
+            "twitter": "RepThomasMassie",
+            "twitter_id": 975200486
+        }
+    },
+    {
+        "id": {
+            "bioguide": "K000385",
+            "opensecrets": "N00035215",
+            "govtrack": 412595
+        },
+        "social": {
+            "youtube_id": "UCLhcNPX2nNQLNzwKW0nEykg",
+            "facebook": "reprobinkelly",
+            "twitter": "RepRobinKelly",
+            "twitter_id": 1339931490,
+            "instagram": "reprobinkelly"
+        }
+    },
+    {
+        "id": {
+            "bioguide": "G000555",
+            "opensecrets": "N00027658",
+            "govtrack": 412223
+        },
+        "social": {
+            "youtube": "KirstenEGillibrand",
+            "facebook": "SenKirstenGillibrand",
+            "youtube_id": "UCVEloQogVsmnkd5vxJInmYg",
+            "twitter": "GillibrandNY",
+            "twitter_id": 899978622416695300
+        }
+    },
+    {
+        "id": {
             "bioguide": "R000584",
             "govtrack": 412322,
-            "thomas": "01896",
             "opensecrets": "N00029441"
         },
         "social": {
@@ -4152,7 +3933,6 @@
         "id": {
             "bioguide": "B001281",
             "govtrack": 412565,
-            "thomas": "02153",
             "opensecrets": "N00033904"
         },
         "social": {
@@ -4180,7 +3960,6 @@
         "id": {
             "bioguide": "S001195",
             "govtrack": 412596,
-            "thomas": "02191",
             "opensecrets": "N00035282"
         },
         "social": {
@@ -4195,7 +3974,6 @@
         "id": {
             "bioguide": "S000522",
             "govtrack": 400380,
-            "thomas": "01071",
             "opensecrets": "N00009816"
         },
         "social": {
@@ -4208,7 +3986,6 @@
         "id": {
             "bioguide": "M001169",
             "govtrack": 412194,
-            "thomas": "01837",
             "opensecrets": "N00027566"
         },
         "social": {
@@ -4223,7 +4000,6 @@
         "id": {
             "bioguide": "B001288",
             "govtrack": 412598,
-            "thomas": "02194",
             "opensecrets": "N00035267"
         },
         "social": {
@@ -4237,7 +4013,6 @@
         "id": {
             "bioguide": "C001101",
             "govtrack": 412600,
-            "thomas": "02196",
             "opensecrets": "N00035278"
         },
         "social": {
@@ -4252,7 +4027,6 @@
         "id": {
             "bioguide": "N000189",
             "govtrack": 412660,
-            "thomas": "02275",
             "opensecrets": "N00036403"
         },
         "social": {
@@ -4266,7 +4040,6 @@
         "id": {
             "bioguide": "L000583",
             "govtrack": 412624,
-            "thomas": "02238",
             "opensecrets": "N00035347"
         },
         "social": {
@@ -4281,7 +4054,6 @@
         "id": {
             "bioguide": "C001103",
             "govtrack": 412622,
-            "thomas": "02236",
             "opensecrets": "N00035346"
         },
         "social": {
@@ -4295,7 +4067,6 @@
         "id": {
             "bioguide": "B001295",
             "govtrack": 412629,
-            "thomas": "02243",
             "opensecrets": "N00035420"
         },
         "social": {
@@ -4309,7 +4080,6 @@
         "id": {
             "bioguide": "A000370",
             "govtrack": 412607,
-            "thomas": "02201",
             "opensecrets": "N00035451"
         },
         "social": {
@@ -4324,7 +4094,6 @@
         "id": {
             "bioguide": "M001194",
             "govtrack": 412634,
-            "thomas": "02248",
             "opensecrets": "N00036275"
         },
         "social": {
@@ -4339,7 +4108,6 @@
         "id": {
             "bioguide": "S001196",
             "govtrack": 412648,
-            "thomas": "02263",
             "opensecrets": "N00035523"
         },
         "social": {
@@ -4353,7 +4121,6 @@
         "id": {
             "bioguide": "R000603",
             "govtrack": 412641,
-            "thomas": "02256",
             "opensecrets": "N00033527"
         },
         "social": {
@@ -4368,7 +4135,6 @@
         "id": {
             "bioguide": "P000609",
             "govtrack": 412608,
-            "thomas": "02221",
             "opensecrets": "N00035691"
         },
         "social": {
@@ -4384,7 +4150,6 @@
         "id": {
             "bioguide": "E000294",
             "govtrack": 412639,
-            "thomas": "02253",
             "opensecrets": "N00035440"
         },
         "social": {
@@ -4400,7 +4165,6 @@
         "id": {
             "bioguide": "Z000017",
             "govtrack": 412646,
-            "thomas": "02261",
             "opensecrets": "N00029404"
         },
         "social": {
@@ -4414,7 +4178,6 @@
         "id": {
             "bioguide": "K000386",
             "govtrack": 412649,
-            "thomas": "02264",
             "opensecrets": "N00035934"
         },
         "social": {
@@ -4427,7 +4190,6 @@
         "id": {
             "bioguide": "W000821",
             "govtrack": 412610,
-            "thomas": "02224",
             "opensecrets": "N00035527"
         },
         "social": {
@@ -4441,7 +4203,6 @@
         "id": {
             "bioguide": "H001072",
             "govtrack": 412609,
-            "thomas": "02223",
             "opensecrets": "N00035792"
         },
         "social": {
@@ -4456,7 +4217,6 @@
         "id": {
             "bioguide": "B001291",
             "govtrack": 412655,
-            "thomas": "02270",
             "opensecrets": "N00005736"
         },
         "social": {
@@ -4470,7 +4230,6 @@
         "id": {
             "bioguide": "M001195",
             "govtrack": 412662,
-            "thomas": "02277",
             "opensecrets": "N00033814"
         },
         "social": {
@@ -4485,7 +4244,6 @@
         "id": {
             "bioguide": "B001297",
             "govtrack": 412619,
-            "thomas": "02233",
             "opensecrets": "N00030829"
         },
         "social": {
@@ -4500,7 +4258,6 @@
         "id": {
             "bioguide": "R000602",
             "govtrack": 412647,
-            "thomas": "02262",
             "opensecrets": "N00035927"
         },
         "social": {
@@ -4514,7 +4271,6 @@
         "id": {
             "bioguide": "D000624",
             "govtrack": 412637,
-            "thomas": "02251",
             "opensecrets": "N00036149"
         },
         "social": {
@@ -4529,7 +4285,6 @@
         "id": {
             "bioguide": "T000474",
             "govtrack": 412617,
-            "thomas": "02231",
             "opensecrets": "N00036107"
         },
         "social": {
@@ -4544,7 +4299,6 @@
         "id": {
             "bioguide": "S001197",
             "govtrack": 412671,
-            "thomas": "02289",
             "opensecrets": "N00035544"
         },
         "social": {
@@ -4560,7 +4314,6 @@
         "id": {
             "bioguide": "S001198",
             "govtrack": 412665,
-            "thomas": "02290",
             "opensecrets": "N00035774"
         },
         "social": {
@@ -4576,7 +4329,6 @@
         "id": {
             "bioguide": "A000372",
             "govtrack": 412625,
-            "thomas": "02239",
             "opensecrets": "N00033720"
         },
         "social": {
@@ -4592,7 +4344,6 @@
         "id": {
             "bioguide": "R000605",
             "govtrack": 412669,
-            "thomas": "02288",
             "opensecrets": "N00035187"
         },
         "social": {
@@ -4606,7 +4357,6 @@
         "id": {
             "bioguide": "B001296",
             "govtrack": 412652,
-            "thomas": "02267",
             "opensecrets": "N00035307"
         },
         "social": {
@@ -4620,7 +4370,6 @@
         "id": {
             "bioguide": "H001071",
             "govtrack": 412623,
-            "thomas": "02237",
             "opensecrets": "N00032243"
         },
         "social": {
@@ -4635,7 +4384,6 @@
         "id": {
             "bioguide": "A000371",
             "govtrack": 412615,
-            "thomas": "02229",
             "opensecrets": "N00033997"
         },
         "social": {
@@ -4649,7 +4397,6 @@
         "id": {
             "bioguide": "G000574",
             "govtrack": 412612,
-            "thomas": "02226",
             "opensecrets": "N00036097"
         },
         "social": {
@@ -4663,7 +4410,6 @@
         "id": {
             "bioguide": "P000610",
             "govtrack": 412659,
-            "thomas": "02274",
             "opensecrets": "N00035000"
         },
         "social": {
@@ -4678,7 +4424,6 @@
         "id": {
             "bioguide": "W000822",
             "govtrack": 412644,
-            "thomas": "02259",
             "opensecrets": "N00036158"
         },
         "social": {
@@ -4693,7 +4438,6 @@
         "id": {
             "bioguide": "L000582",
             "govtrack": 412616,
-            "thomas": "02230",
             "opensecrets": "N00035825"
         },
         "social": {
@@ -4708,7 +4452,6 @@
         "id": {
             "bioguide": "G000577",
             "govtrack": 412631,
-            "thomas": "02245",
             "opensecrets": "N00036135"
         },
         "social": {
@@ -4723,7 +4466,6 @@
         "id": {
             "bioguide": "D000623",
             "govtrack": 412613,
-            "thomas": "02227",
             "opensecrets": "N00030709"
         },
         "social": {
@@ -4737,7 +4479,6 @@
         "id": {
             "bioguide": "M001196",
             "govtrack": 412632,
-            "thomas": "02246",
             "opensecrets": "N00035431"
         },
         "social": {
@@ -4752,7 +4493,6 @@
         "id": {
             "bioguide": "B001292",
             "govtrack": 412657,
-            "thomas": "02272",
             "opensecrets": "N00036018"
         },
         "social": {
@@ -4767,7 +4507,6 @@
         "id": {
             "bioguide": "G000576",
             "govtrack": 412661,
-            "thomas": "02276",
             "opensecrets": "N00036409"
         },
         "social": {
@@ -4781,7 +4520,6 @@
         "id": {
             "bioguide": "N000188",
             "govtrack": 412606,
-            "thomas": "02202",
             "opensecrets": "N00036154"
         },
         "social": {
@@ -4796,7 +4534,6 @@
         "id": {
             "bioguide": "L000581",
             "govtrack": 412638,
-            "thomas": "02252",
             "opensecrets": "N00034068"
         },
         "social": {
@@ -4825,7 +4562,6 @@
         "id": {
             "bioguide": "L000585",
             "govtrack": 412674,
-            "thomas": "02295",
             "opensecrets": "N00037031"
         },
         "social": {
@@ -4975,7 +4711,6 @@
         "id": {
             "bioguide": "D000626",
             "govtrack": 412675,
-            "thomas": "02296",
             "opensecrets": "N00038767"
         },
         "social": {
@@ -5151,7 +4886,6 @@
         "id": {
             "bioguide": "S001190",
             "govtrack": 412534,
-            "thomas": "02124",
             "opensecrets": "N00033101"
         },
         "social": {
@@ -5638,6 +5372,28 @@
     },
     {
         "id": {
+            "bioguide": "A000376",
+            "govtrack": 412828,
+            "opensecrets": "N00040989"
+        },
+        "social": {
+            "twitter": "RepColinAllred",
+            "twitter_id": 1078355119920562200
+        }
+    },
+    {
+        "id": {
+            "bioguide": "C001118",
+            "govtrack": 412832,
+            "opensecrets": "N00042296"
+        },
+        "social": {
+            "twitter": "RepBenCline",
+            "twitter_id": 1072158357237174300
+        }
+    },
+    {
+        "id": {
             "bioguide": "H001066",
             "govtrack": 412559,
             "opensecrets": "N00033638"
@@ -5660,6 +5416,17 @@
     },
     {
         "id": {
+            "bioguide": "L000593",
+            "govtrack": 412760,
+            "opensecrets": "N00040667"
+        },
+        "social": {
+            "twitter": "RepMikeLevin",
+            "twitter_id": 1072134139560620000
+        }
+    },
+    {
+        "id": {
             "bioguide": "M001206",
             "govtrack": 412749,
             "opensecrets": "N00043207"
@@ -5671,6 +5438,39 @@
     },
     {
         "id": {
+            "bioguide": "N000191",
+            "govtrack": 412761,
+            "opensecrets": "N00041080"
+        },
+        "social": {
+            "twitter": "RepJoeNeguse",
+            "twitter_id": 1078749802765140000
+        }
+    },
+    {
+        "id": {
+            "bioguide": "S001209",
+            "govtrack": 412833,
+            "opensecrets": "N00041418"
+        },
+        "social": {
+            "twitter": "RepSpanberger",
+            "twitter_id": 1078771401497161700
+        }
+    },
+    {
+        "id": {
+            "bioguide": "S001213",
+            "govtrack": 412836,
+            "opensecrets": "N00043379"
+        },
+        "social": {
+            "twitter": "RepBryanSteil",
+            "twitter_id": 1075205691621720000
+        }
+    },
+    {
+        "id": {
             "bioguide": "W000826",
             "govtrack": 412751,
             "opensecrets": "N00041997"
@@ -5678,6 +5478,666 @@
         "social": {
             "twitter": "RepSusanWild",
             "twitter_id": 1069636653353001000
+        }
+    },
+    {
+        "id": {
+            "bioguide": "R000615",
+            "govtrack": 412841,
+            "opensecrets": "N00000286"
+        },
+        "social": {
+            "twitter": "SenatorRomney",
+            "twitter_id": 1078693601356509200
+        }
+    },
+    {
+        "id": {
+            "bioguide": "A000378",
+            "govtrack": 412772,
+            "opensecrets": "N00041104"
+        },
+        "social": {
+            "twitter": "RepCindyAxne",
+            "twitter_id": 1080865917377097700
+        }
+    },
+    {
+        "id": {
+            "bioguide": "B001309",
+            "govtrack": 412817,
+            "opensecrets": "N00041594"
+        },
+        "social": {
+            "twitter": "RepTimBurchett",
+            "twitter_id": 1028854804087492600
+        }
+    },
+    {
+        "id": {
+            "bioguide": "C001119",
+            "govtrack": 412789,
+            "opensecrets": "N00037039"
+        },
+        "social": {
+            "twitter": "RepAngieCraig",
+            "twitter_id": 1080222360643485700
+        }
+    },
+    {
+        "id": {
+            "bioguide": "C001120",
+            "govtrack": 412820,
+            "opensecrets": "N00042224"
+        },
+        "social": {
+            "twitter": "RepDanCrenshaw",
+            "twitter_id": 1080894931311431700
+        }
+    },
+    {
+        "id": {
+            "bioguide": "C001121",
+            "govtrack": 412762,
+            "opensecrets": "N00040876"
+        },
+        "social": {
+            "twitter": "RepJasonCrow",
+            "twitter_id": 1080191866509901800
+        }
+    },
+    {
+        "id": {
+            "bioguide": "D000629",
+            "govtrack": 412780,
+            "opensecrets": "N00042626"
+        },
+        "social": {
+            "twitter": "RepDavids",
+            "twitter_id": 1080516116395499500
+        }
+    },
+    {
+        "id": {
+            "bioguide": "B001310",
+            "govtrack": 412839,
+            "opensecrets": "N00041731"
+        },
+        "social": {
+            "twitter": "SenatorBraun",
+            "twitter_id": 1080870981877534700
+        }
+    },
+    {
+        "id": {
+            "bioguide": "E000299",
+            "govtrack": 412825,
+            "opensecrets": "N00041702"
+        },
+        "social": {
+            "twitter": "RepEscobar",
+            "twitter_id": 1075517806551154700
+        }
+    },
+    {
+        "id": {
+            "bioguide": "F000468",
+            "govtrack": 412824,
+            "opensecrets": "N00041194"
+        },
+        "social": {
+            "twitter": "RepFletcher",
+            "twitter_id": 1075904377221722100
+        }
+    },
+    {
+        "id": {
+            "bioguide": "F000469",
+            "govtrack": 412773,
+            "opensecrets": "N00041335"
+        },
+        "social": {
+            "twitter": "RepRussFulcher",
+            "twitter_id": 1078741899572240400
+        }
+    },
+    {
+        "id": {
+            "bioguide": "G000587",
+            "govtrack": 412827,
+            "opensecrets": "N00042282"
+        },
+        "social": {
+            "twitter": "RepSylviaGarcia",
+            "twitter_id": 1080587263132733400
+        }
+    },
+    {
+        "id": {
+            "bioguide": "G000590",
+            "govtrack": 412819,
+            "opensecrets": "N00041873"
+        },
+        "social": {
+            "twitter": "RepMarkGreen",
+            "twitter_id": 1080477288955826200
+        }
+    },
+    {
+        "id": {
+            "bioguide": "G000592",
+            "govtrack": 412842,
+            "opensecrets": "N00041668"
+        },
+        "social": {
+            "twitter": "RepGolden",
+            "twitter_id": 1080891667308298200
+        }
+    },
+    {
+        "id": {
+            "bioguide": "H001085",
+            "govtrack": 412810,
+            "opensecrets": "N00040949"
+        },
+        "social": {
+            "twitter": "RepHoulahan",
+            "twitter_id": 1052896620797460500
+        }
+    },
+    {
+        "id": {
+            "bioguide": "H001090",
+            "govtrack": 412754,
+            "opensecrets": "N00040853"
+        },
+        "social": {
+            "twitter": "RepJoshHarder",
+            "twitter_id": 1080851152151953400
+        }
+    },
+    {
+        "id": {
+            "bioguide": "J000301",
+            "govtrack": 412816,
+            "opensecrets": "N00040559"
+        },
+        "social": {
+            "twitter": "RepDustyJohnson",
+            "twitter_id": 1074782372594413600
+        }
+    },
+    {
+        "id": {
+            "bioguide": "L000590",
+            "govtrack": 412802,
+            "opensecrets": "N00037247"
+        },
+        "social": {
+            "twitter": "RepSusieLee",
+            "twitter_id": 1079061579973439500
+        }
+    },
+    {
+        "id": {
+            "bioguide": "L000592",
+            "govtrack": 412785,
+            "opensecrets": "N00042149"
+        },
+        "social": {
+            "twitter": "RepAndyLevin",
+            "twitter_id": 1080277407867772900
+        }
+    },
+    {
+        "id": {
+            "bioguide": "M001204",
+            "govtrack": 412811,
+            "opensecrets": "N00029416"
+        },
+        "social": {
+            "twitter": "RepMeuser",
+            "twitter_id": 1080574793630527500
+        }
+    },
+    {
+        "id": {
+            "bioguide": "P000616",
+            "govtrack": 412790,
+            "opensecrets": "N00041134"
+        },
+        "social": {
+            "twitter": "RepDeanPhillips",
+            "twitter_id": 1061310112013434900
+        }
+    },
+    {
+        "id": {
+            "bioguide": "P000617",
+            "govtrack": 412782,
+            "opensecrets": "N00042581"
+        },
+        "social": {
+            "twitter": "RepPressley",
+            "twitter_id": 1080584229510172700
+        }
+    },
+    {
+        "id": {
+            "bioguide": "S001207",
+            "govtrack": 412799,
+            "opensecrets": "N00041154"
+        },
+        "social": {
+            "twitter": "RepSherrill",
+            "twitter_id": 1080569698536878100
+        }
+    },
+    {
+        "id": {
+            "bioguide": "S001208",
+            "govtrack": 412784,
+            "opensecrets": "N00041357"
+        },
+        "social": {
+            "twitter": "RepSlotkin",
+            "twitter_id": 1078401427347857400
+        }
+    },
+    {
+        "id": {
+            "bioguide": "S001211",
+            "govtrack": 412753,
+            "opensecrets": "N00041750"
+        },
+        "social": {
+            "twitter": "RepGregStanton",
+            "twitter_id": 1080885078425784300
+        }
+    },
+    {
+        "id": {
+            "bioguide": "S001215",
+            "govtrack": 412786,
+            "opensecrets": "N00040915"
+        },
+        "social": {
+            "twitter": "RepHaleyStevens",
+            "twitter_id": 1076161611033968600
+        }
+    },
+    {
+        "id": {
+            "bioguide": "S001216",
+            "govtrack": 412835,
+            "opensecrets": "N00041606"
+        },
+        "social": {
+            "twitter": "RepKimSchrier",
+            "twitter_id": 1080462532815532000
+        }
+    },
+    {
+        "id": {
+            "bioguide": "T000479",
+            "govtrack": 412821,
+            "opensecrets": "N00027709"
+        },
+        "social": {
+            "twitter": "RepVanTaylor",
+            "twitter_id": 1075040139351597000
+        }
+    },
+    {
+        "id": {
+            "bioguide": "T000480",
+            "govtrack": 412815,
+            "opensecrets": "N00042715"
+        },
+        "social": {
+            "twitter": "RepTimmons",
+            "twitter_id": 1079770852302958600
+        }
+    },
+    {
+        "id": {
+            "bioguide": "T000481",
+            "govtrack": 412787,
+            "opensecrets": "N00042649"
+        },
+        "social": {
+            "twitter": "RepRashida",
+            "twitter_id": 1079769536730140700
+        }
+    },
+    {
+        "id": {
+            "bioguide": "T000482",
+            "govtrack": 412781,
+            "opensecrets": "N00041808"
+        },
+        "social": {
+            "twitter": "RepLoriTrahan",
+            "twitter_id": 1079802482640019500
+        }
+    },
+    {
+        "id": {
+            "bioguide": "T000483",
+            "govtrack": 412783,
+            "opensecrets": "N00039122"
+        },
+        "social": {
+            "twitter": "RepDavidTrone",
+            "twitter_id": 1080573351914061800
+        }
+    },
+    {
+        "id": {
+            "bioguide": "U000040",
+            "govtrack": 412776,
+            "opensecrets": "N00041569"
+        },
+        "social": {
+            "twitter": "RepUnderwood",
+            "twitter_id": 1080539438508400600
+        }
+    },
+    {
+        "id": {
+            "bioguide": "W000825",
+            "govtrack": 412834,
+            "opensecrets": "N00041002"
+        },
+        "social": {
+            "twitter": "RepWexton",
+            "twitter_id": 1017819745880543200
+        }
+    },
+    {
+        "id": {
+            "bioguide": "K000368",
+            "govtrack": 412286,
+            "opensecrets": "N00029260"
+        },
+        "social": {
+            "twitter": "RepKirkpatrick",
+            "twitter_id": 1081240074946252800
+        }
+    },
+    {
+        "id": {
+            "bioguide": "H001081",
+            "govtrack": 412763,
+            "opensecrets": "N00043421"
+        },
+        "social": {
+            "twitter": "RepJahanaHayes",
+            "twitter_id": 1082086081238102000
+        }
+    },
+    {
+        "id": {
+            "bioguide": "D000631",
+            "govtrack": 412809,
+            "opensecrets": "N00042894"
+        },
+        "social": {
+            "twitter": "RepDean",
+            "twitter_id": 567508925
+        }
+    },
+    {
+        "id": {
+            "bioguide": "P000614",
+            "govtrack": 412795,
+            "opensecrets": "N00042161"
+        },
+        "social": {
+            "twitter": "RepChrisPappas",
+            "twitter_id": 1067748650485497900
+        }
+    },
+    {
+        "id": {
+            "bioguide": "P000618",
+            "govtrack": 412758,
+            "opensecrets": "N00040865"
+        },
+        "social": {
+            "twitter": "RepKatiePorter",
+            "twitter_id": 1081222837459996700
+        }
+    },
+    {
+        "id": {
+            "bioguide": "R000612",
+            "govtrack": 412818,
+            "opensecrets": "N00041599"
+        },
+        "social": {
+            "twitter": "RepJohnRose",
+            "twitter_id": 1081312310059253800
+        }
+    },
+    {
+        "id": {
+            "bioguide": "S001205",
+            "govtrack": 412750,
+            "opensecrets": "N00042706"
+        },
+        "social": {
+            "twitter": "RepMGS",
+            "twitter_id": 1067541214671577100
+        }
+    },
+    {
+        "id": {
+            "bioguide": "O000172",
+            "govtrack": 412804,
+            "opensecrets": "N00041162"
+        },
+        "social": {
+            "twitter": "RepAOC",
+            "twitter_id": 1079104563280527400
+        }
+    },
+    {
+        "id": {
+            "bioguide": "J000302",
+            "govtrack": 412812,
+            "opensecrets": "N00043242"
+        },
+        "social": {
+            "twitter": "RepJohnJoyce",
+            "twitter_id": 1082311988926124000
+        }
+    },
+    {
+        "id": {
+            "bioguide": "G000591",
+            "govtrack": 412793,
+            "opensecrets": "N00042458"
+        },
+        "social": {
+            "twitter": "RepMichaelGuest",
+            "twitter_id": 1081243468327018500
+        }
+    },
+    {
+        "id": {
+            "bioguide": "C001117",
+            "govtrack": 412775,
+            "opensecrets": "N00041338"
+        },
+        "social": {
+            "twitter": "RepCasten",
+            "twitter_id": 1083472286089396200
+        }
+    },
+    {
+        "id": {
+            "bioguide": "M001203",
+            "govtrack": 412798,
+            "opensecrets": "N00041843"
+        },
+        "social": {
+            "twitter": "RepMalinowski",
+            "twitter_id": 1080898026418384900
+        }
+    },
+    {
+        "id": {
+            "bioguide": "M001205",
+            "govtrack": 412837,
+            "opensecrets": "N00041542"
+        },
+        "social": {
+            "twitter": "RepCarolMiller",
+            "twitter_id": 1081318716573470700
+        }
+    },
+    {
+        "id": {
+            "bioguide": "M001208",
+            "govtrack": 412769,
+            "opensecrets": "N00042813"
+        },
+        "social": {
+            "twitter": "RepLucyMcBath",
+            "twitter_id": 1082380458976051200
+        }
+    },
+    {
+        "id": {
+            "bioguide": "P000615",
+            "govtrack": 412778,
+            "opensecrets": "N00041956"
+        },
+        "social": {
+            "twitter": "RepGregPence",
+            "twitter_id": 1082369392229400600
+        }
+    },
+    {
+        "id": {
+            "bioguide": "R000614",
+            "govtrack": 412826,
+            "opensecrets": "N00042268"
+        },
+        "social": {
+            "twitter": "RepChipRoy",
+            "twitter_id": 1082790600292925400
+        }
+    },
+    {
+        "id": {
+            "bioguide": "S001214",
+            "govtrack": 412766,
+            "opensecrets": "N00042808"
+        },
+        "social": {
+            "twitter": "RepGregSteube",
+            "twitter_id": 1083125649609506800
+        }
+    },
+    {
+        "id": {
+            "bioguide": "W000823",
+            "govtrack": 412764,
+            "opensecrets": "N00042403"
+        },
+        "social": {
+            "twitter": "RepWaltzPress",
+            "twitter_id": 1082416697380913200
+        }
+    },
+    {
+        "id": {
+            "bioguide": "G000586",
+            "govtrack": 412774,
+            "opensecrets": "N00042114"
+        },
+        "social": {
+            "twitter": "RepChuyGarcia",
+            "twitter_id": 1082427779583541200
+        }
+    },
+    {
+        "id": {
+            "bioguide": "K000394",
+            "govtrack": 412797,
+            "opensecrets": "N00041370"
+        },
+        "social": {
+            "twitter": "RepAndyKimNJ",
+            "twitter_id": 1078771848882593800
+        }
+    },
+    {
+        "id": {
+            "bioguide": "B001307",
+            "govtrack": 412777,
+            "opensecrets": "N00041954"
+        },
+        "social": {
+            "twitter": "RepJimBaird",
+            "twitter_id": 1086316494450032600
+        }
+    },
+    {
+        "id": {
+            "bioguide": "G000588",
+            "govtrack": 412807,
+            "opensecrets": "N00041690"
+        },
+        "social": {
+            "twitter": "RepAGonzalez",
+            "twitter_id": 1054381765224210400
+        }
+    },
+    {
+        "id": {
+            "bioguide": "R000610",
+            "govtrack": 412813,
+            "opensecrets": "N00041871"
+        },
+        "social": {
+            "twitter": "GReschenthaler",
+            "twitter_id": 4205133682
+        }
+    },
+    {
+        "id": {
+            "bioguide": "O000173",
+            "govtrack": 412791,
+            "opensecrets": "N00043581"
+        },
+        "social": {
+            "twitter": "Ilhan",
+            "twitter_id": 1082334352711790600
+        }
+    },
+    {
+        "id": {
+            "bioguide": "C001055",
+            "govtrack": 400069,
+            "opensecrets": "N00025882"
+        },
+        "social": {
+            "twitter": "RepEdCase",
+            "twitter_id": 1081350574589833200
+        }
+    },
+    {
+        "id": {
+            "bioguide": "H001089",
+            "govtrack": 412840,
+            "opensecrets": "N00041620"
+        },
+        "social": {
+            "twitter": "SenHawleyPress",
+            "twitter_id": 1080960924687704000
         }
     },
     {
@@ -6607,7 +7067,6 @@
     {
         "id": {
             "bioguide": "V000129",
-            "thomas": "02105",
             "govtrack": 412515,
             "opensecrets": "N00033367"
         },

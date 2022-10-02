@@ -4,6 +4,7 @@ const NodeCache = require("node-cache");
 const contributorsCache = new NodeCache({stdTTL: 3600});
 
 module.exports = async (representative) => {
+    console.log('representative', representative);
     const opensecrets_id = representative.id.opensecrets;
     let topContributors = contributorsCache.get(opensecrets_id);
 
