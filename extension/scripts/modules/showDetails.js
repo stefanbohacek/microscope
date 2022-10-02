@@ -18,7 +18,7 @@ const showDetails = (data) => {
 
                 const contributorsHTML = `<ul>
                 ${data.contributors.industries.map(contributor => `<li>
-                        ${contributor.org_name} (${currencyFormat.format(contributor.total)})
+                        ${contributor.industry_name} (${currencyFormat.format(contributor.total)})
                     </li>
                 `).join('')}</ul>`;
 
