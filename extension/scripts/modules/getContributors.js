@@ -1,7 +1,7 @@
 export default async (username, service) => {
     console.log('debug', username, service);
     try {
-        const requestURL = `https://stefanbohacek.com/microscope/?username=${username}&service=${service}`;
+        const requestURL = `${API_ENDPOINT}?username=${username}&service=${service}`;
         console.log('debug:requestURL', requestURL);
         await fetch(requestURL);
 

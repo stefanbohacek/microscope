@@ -10,14 +10,14 @@ const showDetails = (data) => {
             
             let resultHTML = '';
             
-            if (data.contributors && data.contributors.length){
+            if (data.contributors && data.contributors.industries && data.contributors.industries.length){
                 const currencyFormat = new Intl.NumberFormat('en-US', {
                     style: 'currency',
                     currency: 'USD',
                 });
 
                 const contributorsHTML = `<ul>
-                ${data.contributors.map(contributor => `<li>
+                ${data.contributors.industries.map(contributor => `<li>
                         ${contributor.org_name} (${currencyFormat.format(contributor.total)})
                     </li>
                 `).join('')}</ul>`;
@@ -33,7 +33,11 @@ const showDetails = (data) => {
             if (data.representative.id.govtrack){
                 resultHTML += `
                 <p>
-                    Learn more on <a class="r-1cvl2hr" href="https://www.govtrack.us/congress/members/${data.representative.id.govtrack}" target="_blank">GovTrack</a>.
+                    Learn more on
+                        <a href="https://www.govtrack.us/congress/members/${data.representative.id.govtrack}" target="_blank">GovTrack</a>
+                        and
+                        <!-- <a href="https://www.opensecrets.org/search?q=${data.representative.id.opensecrets}" target="_blank">OpenSecrets</a>. -->
+                        <a href="https://www.opensecrets.org/members-of-congress/summary?cid=${data.representative.id.opensecrets}" target="_blank">OpenSecrets</a>.
                 </p>
                 `;
             }
