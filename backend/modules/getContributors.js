@@ -21,6 +21,5 @@ module.exports = async (representative) => {
             console.log(error);
             return [];
         }
-    }
-    
+    }   
 }

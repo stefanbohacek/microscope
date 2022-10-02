@@ -12,3 +12,7 @@
 #microscope-output-container ul{
     padding-left: 1.5rem;
 }
+
+#microscope-output-container a{
+    color: rgb(29, 155, 240);
+}

@@ -1,5 +1,5 @@
-const showDetails = (representative, contributors) => {
-    if (representative.id){
+const showDetails = (data) => {
+    if (data.representative.id){
         const userDescriptionSel = '[data-testid="UserDescription"]';
         const userDescriptionEl = document.querySelector(userDescriptionSel);
 
@@ -9,19 +9,16 @@ const showDetails = (representative, contributors) => {
             containerEl.setAttribute('id', 'microscope-output-container');
             
             let resultHTML = '';
-
             
-            if (contributors && contributors.length){
-                const topContributors = contributors.splice(0, 3);
-
+            if (data.contributors && data.contributors.length){
                 const currencyFormat = new Intl.NumberFormat('en-US', {
                     style: 'currency',
                     currency: 'USD',
                 });
 
-                const topContributorsHTML = `<ul>
-                ${topContributors.map(contributor => `<li>
-                        ${contributor['@attributes'].org_name} (${currencyFormat.format(contributor['@attributes'].total)})
+                const contributorsHTML = `<ul>
+                ${data.contributors.map(contributor => `<li>
+                        ${contributor.org_name} (${currencyFormat.format(contributor.total)})
                     </li>
                 `).join('')}</ul>`;
 
@@ -29,14 +26,14 @@ const showDetails = (representative, contributors) => {
                 <p>
                     <strong>Top donors</strong>
                 </p>
-                ${topContributorsHTML}
+                ${contributorsHTML}
                 `;
             }
 
-            if (representative.id.govtrack){
+            if (data.representative.id.govtrack){
                 resultHTML += `
                 <p>
-                    Learn more on <a class="r-1cvl2hr" href="https://www.govtrack.us/congress/members/${representative.id.govtrack}" target="_blank">GovTrack</a>.
+                    Learn more on <a class="r-1cvl2hr" href="https://www.govtrack.us/congress/members/${data.representative.id.govtrack}" target="_blank">GovTrack</a>.
                 </p>
                 `;
             }
@@ -48,7 +45,7 @@ const showDetails = (representative, contributors) => {
             const target = document.querySelector('body');
             const observer = new MutationObserver(() => {
                 if (document.querySelector(userDescriptionSel)) {
-                    showDetails(representative, contributors);
+                    showDetails(data);
                     observer.disconnect();
                 }
             });
