@@ -18,13 +18,20 @@ module.exports = async (representative) => {
             resp = await fetch(requestURL);
             data = await resp.json();
             console.log(util.inspect(data, false, null, true))
-            topContributors.companies = data.response.contributors.contributor.map(contributor => contributor["@attributes"]).filter(contributor => contributor.pacs > 0).slice(0, 5);
+            topContributors.companies = data.response.contributors.contributor
+                .map(contributor => contributor["@attributes"])
+                .filter(contributor => contributor.pacs > 0)
+                .slice(0, 5);
 
             requestURL = `https://www.opensecrets.org/api/?method=candIndustry&apikey=${process.env.OPENSECRETS_API_KEY}&cid=${opensecrets_id}&output=json`;
             resp = await fetch(requestURL);
             data = await resp.json();
             console.log(util.inspect(data, false, null, true))
-            topContributors.industries = data.response.industries.industry.map(industry => industry["@attributes"]).slice(0, 5);
+            topContributors.industries = data.response.industries.industry
+                .map(industry => industry["@attributes"])
+                .filter(contributor => contributor.pacs > 0)
+                .slice(0, 5);
+
             contributorsCache.set(representative.id.opensecrets, topContributors);
             return topContributors;
         } catch (error){
