@@ -34,7 +34,7 @@ const showDetails = (data) => {
                 resultHTML += `
                 <p>
                     <strong>Top donors</strong>
-                    <button class="switch-view" data-filter="industry">by industry</button> |
+                    <button class="switch-view switch-view-selected" data-filter="industry">by industry</button> |
                     <button class="switch-view" data-filter="org">by organization</button> 
                 </p>
                 ${contributorsByIndustryHTML}
@@ -58,18 +58,23 @@ const showDetails = (data) => {
                 ${resultHTML}
             `;
 
-            const switchViewBtns = document.querySelectorAll('.switch-view');
+            const switchViewBtns = {
+                'industry': document.querySelectorAll('.switch-view[data-filter="industry"]'),
+                'org': document.querySelectorAll('.switch-view[data-filter="org"]')
+            };
             const contributionsViews = {
                 'industry': document.querySelectorAll('.contributors-industry'),
                 'org': document.querySelectorAll('.contributors-org')
             };
 
-            for (const button of switchViewBtns) {
-                button.addEventListener('click', function(event) {
+            for (const button in switchViewBtns) {
+                switchViewBtns[button][0].addEventListener('click', function(event) {
                     for (const view in contributionsViews) {
                         if (view === this.dataset.filter){
+                            switchViewBtns[view][0].classList.add('switch-view-selected');
                             contributionsViews[view][0].classList.remove('d-none');
                         } else {
+                            switchViewBtns[view][0].classList.remove('switch-view-selected');
                             contributionsViews[view][0].classList.add('d-none');
                         }
                     }

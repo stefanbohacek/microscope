@@ -14,9 +14,14 @@
 
 .switch-view{
     font-size: 1rem;
+    color: inherit;
     cursor: pointer;
     border: none;
     background: none;    
+}
+
+.switch-view-selected{
+    text-decoration: underline;
 }
 
 .switch-view:hover{
