@@ -14,9 +14,8 @@ Microscope is a set of tools that give you insights into how money influences po
 
 ## Data sources
 
-- [legislators-current.yaml](https://github.com/unitedstates/congress-legislators/blob/main/legislators-current.yaml)
-- [legislators-historical.yaml](https://github.com/unitedstates/congress-legislators/blob/main/legislators-historical.yaml)
-- [legislators-social-media.yaml](https://github.com/unitedstates/congress-legislators/blob/main/legislators-social-media.yaml)
+- [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
+- [opensecrets.org](https://www.opensecrets.org/)
 
 ## See also
 
