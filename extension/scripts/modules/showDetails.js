@@ -37,7 +37,7 @@ const showDetails = (data) => {
 
                 resultHTML += `
                 <p>
-                    <strong>Top donors</strong>
+                    <strong>Top corporate donors</strong>
                     <button class="switch-view switch-view-selected" data-filter="industry">by industry</button> |
                     <button class="switch-view" data-filter="org">by organization</button> 
                 </p>
