@@ -26,10 +26,14 @@ const showDetails = (data) => {
                 `).join('')}</ul>`;
 
                 const contributorsByOrgHTML = `<ul class="contributors-view contributors-org d-none">
-                ${data.contributors.companies.map(contributor => `<li>
-                        ${contributor.org_name} (${currencyFormat.format(contributor.total)})
-                    </li>
-                `).join('')}</ul>`;
+                    ${
+                        data.contributors.companies.map(
+                            contributor => `<li>
+                                ${contributor.org_name} (${currencyFormat.format(contributor.total)})
+                            </li>
+                        `).join('')
+                    }
+                </ul>`;
 
                 resultHTML += `
                 <p>
@@ -62,14 +66,15 @@ const showDetails = (data) => {
                 'industry': document.querySelectorAll('.switch-view[data-filter="industry"]'),
                 'org': document.querySelectorAll('.switch-view[data-filter="org"]')
             };
+
             const contributionsViews = {
                 'industry': document.querySelectorAll('.contributors-industry'),
                 'org': document.querySelectorAll('.contributors-org')
             };
 
-            for (const button in switchViewBtns) {
-                switchViewBtns[button][0].addEventListener('click', function(event) {
-                    for (const view in contributionsViews) {
+            for (const button in switchViewBtns){
+                switchViewBtns[button][0].addEventListener('click', (event) => {
+                    for (const view in contributionsViews){
                         if (view === this.dataset.filter){
                             switchViewBtns[view][0].classList.add('switch-view-selected');
                             contributionsViews[view][0].classList.remove('d-none');
@@ -83,9 +88,9 @@ const showDetails = (data) => {
         } else {
             const target = document.querySelector('body');
             const observer = new MutationObserver(() => {
-                if (document.querySelector(userDescriptionSel)) {
-                    showDetails(data);
+                if (document.querySelector(userDescriptionSel)){
                     observer.disconnect();
+                    showDetails(data);
                 }
             });
             const config = { childList: true };
