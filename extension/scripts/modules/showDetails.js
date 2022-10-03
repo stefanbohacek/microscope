@@ -75,7 +75,7 @@ const showDetails = (data) => {
             for (const button in switchViewBtns){
                 switchViewBtns[button][0].addEventListener('click', (event) => {
                     for (const view in contributionsViews){
-                        if (view === this.dataset.filter){
+                        if (view === switchViewBtns[button][0].dataset.filter){
                             switchViewBtns[view][0].classList.add('switch-view-selected');
                             contributionsViews[view][0].classList.remove('d-none');
                         } else {
