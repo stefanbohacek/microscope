@@ -23,7 +23,7 @@ module.exports = async (representative) => {
 
             topContributors.companies = data.response.contributors.contributor
                 .map(contributor => contributor["@attributes"])
-                .sort((a, b) => a.pacs - b.pacs)
+                .sort((a, b) => b.pacs - a.pacs)
                 .filter(contributor => contributor.pacs > 0)
                 .slice(0, 5);
 
@@ -33,7 +33,7 @@ module.exports = async (representative) => {
             console.log(util.inspect(data, false, null, true))
             topContributors.industries = data.response.industries.industry
                 .map(industry => industry["@attributes"])
-                .sort((a, b) => a.pacs - b.pacs)
+                .sort((a, b) => b.pacs - a.pacs)
                 .filter(contributor => contributor.pacs > 0)
                 .slice(0, 5);
 
