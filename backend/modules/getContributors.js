@@ -1,7 +1,7 @@
 require( 'dotenv' ).config();
 const fetch = require('node-fetch');
 const util = require('util');
-const NodeCache = require("node-cache");
+const NodeCache = require('node-cache');
 const contributorsCache = new NodeCache({stdTTL: 3600});
 
 module.exports = async (representative) => {
