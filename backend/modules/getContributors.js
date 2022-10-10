@@ -13,6 +13,7 @@ module.exports = async (representative) => {
     } else {
         try {
             let requestURL, resp, data;
+            topContributors.cycle = data.response.contributors['@attributes'].cycle;
 
             requestURL = `https://www.opensecrets.org/api/?method=candContrib&apikey=${process.env.OPENSECRETS_API_KEY}&cid=${opensecrets_id}&output=json`;
             resp = await fetch(requestURL);
