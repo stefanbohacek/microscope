@@ -13,12 +13,14 @@ module.exports = async (representative) => {
     } else {
         try {
             let requestURL, resp, data;
-            topContributors.cycle = data.response.contributors['@attributes'].cycle;
 
             requestURL = `https://www.opensecrets.org/api/?method=candContrib&apikey=${process.env.OPENSECRETS_API_KEY}&cid=${opensecrets_id}&output=json`;
             resp = await fetch(requestURL);
             data = await resp.json();
             console.log(util.inspect(data, false, null, true))
+
+            topContributors.cycle = data.response.contributors['@attributes'].cycle;
+
             topContributors.companies = data.response.contributors.contributor
                 .map(contributor => contributor["@attributes"])
                 .sort((a, b) => a.pacs - b.pacs)
