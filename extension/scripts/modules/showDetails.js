@@ -21,7 +21,7 @@ const showDetails = (data) => {
 
                 const contributorsByIndustryHTML = `<ul class="contributors-view contributors-industry">
                 ${data.contributors.industries.map(contributor => `<li>
-                        ${contributor.industry_name} (${currencyFormat.format(contributor.total)})
+                        ${contributor.industry_name} (${currencyFormat.format(contributor.pacs)})
                     </li>
                 `).join('')}</ul>`;
 
@@ -29,7 +29,7 @@ const showDetails = (data) => {
                     ${
                         data.contributors.companies.map(
                             contributor => `<li>
-                                ${contributor.org_name} (${currencyFormat.format(contributor.total)})
+                                ${contributor.org_name} (${currencyFormat.format(contributor.pacs)})
                             </li>
                         `).join('')
                     }
